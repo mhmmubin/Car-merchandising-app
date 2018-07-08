@@ -18,16 +18,7 @@ using Windows.UI.Xaml.Navigation;
 
 namespace AssignmentP3
 {
-    /// <summary>
-    /// An empty page that can be used on its own or navigated to within a Frame.
-    /// </summary>
-
-        /*
-         Developer: MUBIN
-         Project: Assignment Part3
-         Project Details: Vehicle final cost calculation including Insurance.
-         Date: 12-11-17
-         */
+   
 
     public sealed partial class MainPage : Page
     {
